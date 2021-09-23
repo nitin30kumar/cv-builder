@@ -1,6 +1,6 @@
-# Resume Builder v1.0
+# CV Builder v1.0
 CV builder so that you can produce this when trying to go for an interview.
-> Many of my friends were asking what can be a professional resume be like. I sent them my CV & told them to make their own using my structure.  
+> Many of my friends were asking what can be a professional CV be like. I sent them my CV & told them to make their own using my structure.  
 > But, I wanted to make all of it automated so that I don't have to sent them my CV & they don't have to wait for it.  
 > Make your own CV using this  
 
