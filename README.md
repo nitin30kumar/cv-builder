@@ -20,7 +20,7 @@ Make your own CV using this.
 
 - [ ] Just download this repo & extract it inside htdocs directory  
 - [ ] Start MySQL server from XAMPP (install it from [here](https://www.apachefriends.org/download.html) )  
-- [ ] Open Chrome browser & type ```localhost/``` & hit ENTER.   
+- [ ] Open Chrome browser & type ```localhost/cv-builder``` & hit ENTER.   
 - [ ] Fill in the details & click on the **BUILD CV** button   
 
 **HERE COMES YOUR PROFESSIONAL CV**
